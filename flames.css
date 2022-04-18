@@ -1,0 +1,35 @@
+body {
+    background-image: url("flames.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+
+h1 {
+    color: red;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.container {
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    padding: 30px;
+    width: 30%;
+    margin: auto;
+    margin-top: 10%;
+    font-size: large;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+input {
+    padding: 12px 20px;
+    margin: 8px 0;
+    border-radius: 5%;
+}
+
+h3 {
+    color: hotpink;
+    font-style: italic;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
