@@ -19,7 +19,6 @@ This application automates the FLAMES calculation, providing users with an inter
 
 ## Technologies Used
 
-- **Frontend**:
   - HTML5
   - CSS3
-  - JavaScript (ES6)
+  - JavaScript 
